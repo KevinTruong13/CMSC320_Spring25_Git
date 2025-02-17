@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: It enables collaboration by allowing multiple people to work on a
+repo together with syncing functionality.
