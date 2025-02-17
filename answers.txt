@@ -2,3 +2,8 @@ Q1: Why might we consider using Git?
 
 Answer: It enables collaboration by allowing multiple people to work on a
 repo together with syncing functionality.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be used in fields like marketing by studying the 
+spending habits and trends of consumers.
