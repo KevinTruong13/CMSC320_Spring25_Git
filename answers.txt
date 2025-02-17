@@ -14,3 +14,7 @@ Answer: Merging combines changes between branches,
 preserving the history of both branches with a merge commit.
 Rebasing adds the commits of one branch to the end of the recipient, which makes the git log
 linear.
+
+Q4: What are you looking forward to this semester?
+
+Answer: This is my last semester at UMD, so I am looking forward to graduating.
